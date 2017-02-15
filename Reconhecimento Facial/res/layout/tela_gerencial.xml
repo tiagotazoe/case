@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content">
+   
+	<Button
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" 
+		android:id="@+id/cadastrar_usuario" 
+		android:text="@string/cadastrar_usuario"/>
+	
+	<Button
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" 
+		android:id="@+id/pesquisar" 
+		android:text="@string/pesquisar"/>
+	
+	<Button
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:id="@+id/apagar_banco" 
+		android:text="@string/apagar_banco"/>
+    
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, recFaceActivity!</string>
+    <string name="app_name">Reconhecimento de Face</string>
+    <string name="cadastrar_usuario">Cadastrar Usuario</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="apagar_banco">Apagar Banco de Dados</string>
+    <string name="nome">Nome:</string>
+    <string name="comparar_imagem">Capturar Imagem</string>
+    <string name="tela_inclusao">Cadastrar Usuario</string>
+    <string name="voltar">Voltar</string>
+</resources>
